@@ -1,0 +1,9 @@
+c:\users\yekge\documents\visual studio 2017\Projects\GunlukApp\GunlukApp\bin\Debug\GunlukApp.exe.config
+c:\users\yekge\documents\visual studio 2017\Projects\GunlukApp\GunlukApp\bin\Debug\GunlukApp.exe
+c:\users\yekge\documents\visual studio 2017\Projects\GunlukApp\GunlukApp\bin\Debug\GunlukApp.pdb
+c:\users\yekge\documents\visual studio 2017\Projects\GunlukApp\GunlukApp\obj\Debug\GunlukApp.csprojResolveAssemblyReference.cache
+c:\users\yekge\documents\visual studio 2017\Projects\GunlukApp\GunlukApp\obj\Debug\GunlukApp.Form1.resources
+c:\users\yekge\documents\visual studio 2017\Projects\GunlukApp\GunlukApp\obj\Debug\GunlukApp.Properties.Resources.resources
+c:\users\yekge\documents\visual studio 2017\Projects\GunlukApp\GunlukApp\obj\Debug\GunlukApp.csproj.GenerateResource.Cache
+c:\users\yekge\documents\visual studio 2017\Projects\GunlukApp\GunlukApp\obj\Debug\GunlukApp.exe
+c:\users\yekge\documents\visual studio 2017\Projects\GunlukApp\GunlukApp\obj\Debug\GunlukApp.pdb
